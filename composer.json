@@ -1,5 +1,6 @@
 {
     "require": {
-        "couscous/couscous": "^1.8"
+        "couscous/couscous": "^1.8",
+        "guzzlehttp/guzzle": "^7.4"
     }
 }
